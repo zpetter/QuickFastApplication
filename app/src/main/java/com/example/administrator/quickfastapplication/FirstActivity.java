@@ -11,5 +11,6 @@ public class FirstActivity extends Activity{
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.jf_layout_first);
+        //测试
     }
 }
