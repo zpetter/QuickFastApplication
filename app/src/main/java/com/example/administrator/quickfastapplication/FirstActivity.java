@@ -12,5 +12,6 @@ public class FirstActivity extends Activity{
         super.onCreate(savedInstanceState);
         setContentView(R.layout.jf_layout_first);
         //测试
+        //我在这里不能直接提交到git上面吗，为什么只有
     }
 }
